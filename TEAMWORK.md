@@ -16,7 +16,7 @@ Do you know that I'm **not being paid** for contributing KygekTeam, even for a *
 
 Some people may think that **I'm stupid**, because I could have **earned hundreds of dollars** if I'm being paid. Yes, I do need money. But I believe that in the future, somebody will help KygekTeam to continue operating.
 
-I contribute to KygekTeam **not** because of money. But for the purpose of the **gaining and improving** my **experience, knowledge, skill, hobby** and for my **overall masterplan**, which you do not need to know about. Therefore, I'm **looking for people** to contribute together with me through KygekTeam will the purpose of **learning and caring**.
+I contribute to KygekTeam **not** because of money. But for the purpose of the **gaining and improving** my **experience, knowledge, skill, hobby** and for my **overall masterplan** (which you do not need to know about). Therefore, I'm **looking for people** to contribute together with me through KygekTeam will the purpose of **learning and caring**.
 
 **Remember this:** If you want to **be paid** or **be famous** by contributing to KygekTeam, then KygekTeam is **not and never** be for you.
 
