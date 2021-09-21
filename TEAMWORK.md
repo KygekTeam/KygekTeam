@@ -1,6 +1,6 @@
 # Teamwork in KygekTeam
 
-We value teamwork **very highly**. We believe that **great teamwork** leads to **great work**. Therefore, every contributor **must** build a good teamwork in KygekTeam.
+We value teamwork **very highly**. We believe that **great teamwork** leads to **great results**. Therefore, every contributor **must** build a good teamwork in KygekTeam.
 
 Read this: **KYGEKTEAM**. Yes, there's `team` word in our organization name. That's how **valuable** teamwork is according to us. Teamwork is not a **choice** while contributing to KygekTeam, but it is an **obligation**.
 
@@ -28,7 +28,7 @@ If you are interested, **MAKE SURE YOU AGREE TO ALL OF THE STATEMENTS ABOVE**! I
 
 You can apply to become an official contributor for KygekTeam, by **joining** our [Discord server](https://discord.kygekteam.org) and **opening** a ticket. **I'm waiting for you at anytime, so don't delay!**
 
-**Remember**, I highly value teamwork, so if you do not be a great teamwork, then I have to **reject** your application or **demote** you from becoming our contributor.
+**Remember**, I highly value teamwork, so if you do not be a great partner in our teamwork, then I have to **reject** your application or **demote** you from becoming our official contributor.
 
 ---
 
