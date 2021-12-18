@@ -11,12 +11,12 @@
 - Our Vision and Mission (COMING SOON)
 - [Projects by KygekTeam](/PROJECTS.md)
 - [Teamwork at KygekTeam](/TEAMWORK.md)
-- [KygekTeam Documentations](https://docs.kygekteam.org)
+- [KygekTeam Documentations](https://docs.kygek.team)
 
 ## Support & Contact
 
-- Ask and share in the [KygekTeam Forum](https://forum.kygekteam.org)
-- Join our [Discord server](https://discord.kygekteam.org)
+- Ask and share in the [KygekTeam Forum](https://forum.kygek.team)
+- Join our [Discord server](https://discord.kygek.team)
 - Contact us via email: support (at) kygekteam (dot) org
 
 ---

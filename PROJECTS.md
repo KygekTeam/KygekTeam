@@ -139,9 +139,9 @@ All NukkitX plugin releases can be found in [CloudburstMC official website](http
 
 ### PocketMine-MP 4
 
-#### [PocketMine-MP 4 Jenkins](https://r.kygekteam.org/pm4)
-#### [PocketMine-MP 4 Docker Image](https://r.kygekteam.org/pm4docker)
-#### [PocketMine-MP 4 Plugins](https://docs.kygekteam.org/plugins/pocketmine-mp-4.html)
+#### [PocketMine-MP 4 Jenkins](https://r.kygek.team/pm4)
+#### [PocketMine-MP 4 Docker Image](https://r.kygek.team/pm4docker)
+#### [PocketMine-MP 4 Plugins](https://docs.kygek.team/plugins/pocketmine-mp-4.html)
 #### [PocketMine-MP 4 Arch Linux](https://github.com/KygekTeam/pm4-arch)
 
 ## Other Projects

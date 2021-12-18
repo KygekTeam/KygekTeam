@@ -26,7 +26,7 @@ You still have the chance to become an official contributor for KygekTeam!
 
 If you are interested, **MAKE SURE YOU AGREE TO ALL OF THE STATEMENTS ABOVE**! If you do not, then I **strongly request you to not apply** to become an official contributor for KygekTeam. I don't want my time **wasted** dealing with useless people.
 
-You can apply to become an official contributor for KygekTeam, by **joining** our [Discord server](https://discord.kygekteam.org) and **opening** a ticket. **I'm waiting for you at anytime, so don't delay!**
+You can apply to become an official contributor for KygekTeam, by **joining** our [Discord server](https://discord.kygek.team) and **opening** a ticket. **I'm waiting for you at anytime, so don't delay!**
 
 **Remember**, I highly value teamwork, so if you do not be a great partner in our teamwork, then I have to **reject** your application or **demote** you from becoming our official contributor.
 
