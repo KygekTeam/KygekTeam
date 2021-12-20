@@ -17,7 +17,7 @@
 
 - Ask and share in the [KygekTeam Forum](https://forum.kygek.team)
 - Join our [Discord server](https://discord.kygek.team)
-- Contact us via email: support (at) kygekteam (dot) org
+- Contact us via email: support (at) kygek (dot) team
 
 ---
 
