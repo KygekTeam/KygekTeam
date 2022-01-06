@@ -4,7 +4,7 @@
 
 ---
 
-KygekTeam is an organization which aims to help and educate Minecraft users and developers for a better and simpler life through our projects.
+KygekTeam is an organization which aims to help and educate Minecraft users and developers for a better and simpler experience through our projects.
 
 ## Getting Started
 
@@ -22,13 +22,13 @@ KygekTeam is an organization which aims to help and educate Minecraft users and 
 
 - [Main Website](https://kygek.team)
 - [Blog](https://blog.kygek.team)
-- [KygekTeam Jenkins](https://jenkins.kygek.team)
+- [Jenkins](https://jenkins.kygek.team)
 - [URL List](https://r.kygek.team)
 
 ## Support & Contact
 
 - Ask and share your thoughts in the [KygekTeam Forum](https://forum.kygek.team)
-- Join our [Discord server](https://discord.kygek.team)
+- Join our [Discord server](https://discord.kygek.team) for faster response
 - Contact us via email: support (at) kygek (dot) team
 
 ---
