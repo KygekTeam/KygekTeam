@@ -18,6 +18,13 @@ KygekTeam is an organization which aims to help and educate Minecraft users and 
 - [API Documentation](https://api-docs.kygek.team)
 - Becoming a staff/contributor (COMING SOON)
 
+## Staff Resources
+
+- [Requirements](staff-resources/staff-requirements.md)
+- [Agreement](/staff-resources/staff-agreement.md)
+- [Trial Staff Rules](staff-resources/trial-staff-rules.md)
+- [Application Form](https://forms.gle/3McEFLn39ZTSo8H19) (Please create a ticket in our Discord server before filling the form, otherwise your form submission will be ignored)
+
 ## Our Websites
 
 - [Main Website](https://kygek.team)
