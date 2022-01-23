@@ -16,3 +16,7 @@
 After your staff application has been approved by KygekDev, **you'll get Trial Staffs role**. You'll become our full staff after you've **helped KygekTeam making projects** and you've been **verified that you meet the above requirements**.
 
 **Please make a ticket in #🎫︲private-support on our [Discord server](https://discord.gg/CXtqUZv) if you are interested.**
+
+## Staff Application Process
+
+![](https://github.com/KygekTeam/KygekTeam/blob/main/images/KygekTeam%20Staff%20Application%20Process.png)
