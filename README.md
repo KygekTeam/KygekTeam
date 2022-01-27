@@ -1,10 +1,10 @@
 # KygekTeam
 
-**Developing open source projects since 2020!**
+**Building teamwork, improving lives**
 
 ---
 
-KygekTeam is an organization which aims to help and educate Minecraft users and developers for a better and simpler experience through our projects.
+KygekTeam is an organization which aims to help and educate Minecraft users and developers for a better and simpler life through our projects.
 
 ## Getting Started
 
@@ -41,4 +41,4 @@ KygekTeam is an organization which aims to help and educate Minecraft users and 
 
 ---
 
-_Copyright &copy; KygekTeam_
+_All resources are under Copyright &copy; by KygekTeam International | Child organization of [The Kygek Foundation](https://github.com/kygek)_
