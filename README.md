@@ -1,6 +1,6 @@
 # KygekTeam
 
-**Building teamwork, improving lives**
+_**Building teamwork, improving lives**_
 
 ---
 
@@ -37,7 +37,11 @@ KygekTeam is an organization which aims to help and educate Minecraft users and 
 
 - Ask and share your thoughts in the [KygekTeam Forum](https://forum.kygek.team)
 - Join our [Discord server](https://discord.kygek.team) for faster response
-- Contact us via email: support (at) kygek (dot) team
+- Contact us via email: `support (at) kygek (dot) team`
+
+## Parent Organization
+
+- [Main Website of The Kygek Foundation](https://foundation.kygek.team)
 
 ---
 
