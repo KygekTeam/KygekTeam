@@ -31,7 +31,7 @@ KygekTeam is an organization which aims to help and educate Minecraft users and 
 - [Main Website](https://kygek.team)
 - [Blog](https://blog.kygek.team)
 - [Jenkins](https://jenkins.kygek.team)
-- ~~[URL List](https://r.kygek.team)~~ (No longer active)
+- [URL List](https://r.kygek.team)
 
 ## Support & Contact
 
