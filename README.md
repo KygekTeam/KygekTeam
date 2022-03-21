@@ -4,6 +4,12 @@ _**Building teamwork, improving lives**_
 
 ---
 
+## IMPORTANT
+
+We're looking for someone that's interested becoming the new leader of KygekTeam. Please visit [this page](https://kygek.team/lookingfornewleader) for more information.
+
+---
+
 KygekTeam is an organization which aims to help and educate Minecraft users and developers for a better and simpler life through our projects.
 
 ## Getting Started
