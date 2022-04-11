@@ -52,3 +52,5 @@ KygekTeam is an organization which aims to help and educate Minecraft users and 
 ---
 
 _All resources are under Copyright &copy; by KygekTeam International | Child organization of [The Kygek Foundation](https://github.com/kygek)_
+
+R.I.P. KygekTeam 2020-2022
